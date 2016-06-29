@@ -1,0 +1,4 @@
+{
+"name": {"message": "Mobile Link Fixer"},
+"description": {"message": "Redirects mobile links like https://m.domain.com to https://www.domain.com"}
+}
